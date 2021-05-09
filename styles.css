@@ -1,15 +1,28 @@
-.block, .inline {
-  border: 2px solid gray;
-  padding: 10px;
-}
-#paragraph-element {
-/*   background: skyblue; */
-}
-#span-element {
-  background-color: orange;
-}
-
 /* INSTRUCTIONS */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+
+.block{
+  border: 2px solid gray;
+  padding: 10px;
+}
+.inline {
+  border: 2px solid gray;
+  padding: 10px;
+}
+
+/* Block elements */
+#div-element {
+  background: tomato;
+}
+
+#paragraph-element {
+  background: skyblue;
+}
+
+/* Inline elements */
+#span-element {
+  background-color: orange;
 }
