@@ -1,3 +1,3 @@
-Credits to Kostas Minaidis
-The complete exercise with the test code can be found at :
+Credits to [kostasx](https://github.com/kostasx)
+The complete exercise with the test code can be found here :
 https://codepen.io/kostasx/pen/XWpQLJb?editors=1001
